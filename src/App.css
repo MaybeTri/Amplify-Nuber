@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(165, 0, 0);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: rgba(100, 0, 0, 0.089);
+}
+
+body {
+background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ADc_metro_car_interior.jpg&psig=AOvVaw3JL3VAcj1B4fxN5Fgn-eVy&ust=1631880051725000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiltoy5g_MCFQAAAAAdAAAAABAD");
+}

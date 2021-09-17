@@ -5,9 +5,11 @@
   "dependencies": {
     "@aws-amplify/ui-react": "^1.2.15",
     "aws-amplify": "^4.2.9",
+    "aws-sdk": "^2.989.0",
     "cra-template": "1.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.15.3",
     "react-scripts": "4.0.3",
     "web-vitals": "^2.1.0"
   },
